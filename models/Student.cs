@@ -19,5 +19,7 @@ public class Student
     [EmailAddress(ErrorMessage = "E-mail invalido")]
     [DisplayName("E-mail")]
     public string Email { get; set; } = string.Empty;
-        
+
+    public List<Premium> Premiums { get; set; } = new();
+
 }
