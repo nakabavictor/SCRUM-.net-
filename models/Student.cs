@@ -15,7 +15,7 @@ public class Student
     [DisplayName("Nome Completo")]
     public string Nome { get; set; } = string.Empty;
     
-    [Required(ErrorMessage = "informe o email")]
+    [Required(ErrorMessage = "Informe o email")]
     [EmailAddress(ErrorMessage = "E-mail invalido")]
     [DisplayName("E-mail")]
     public string Email { get; set; } = string.Empty;
