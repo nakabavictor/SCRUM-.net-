@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDBF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cccbc99fd5fdaeeeaf7b31d4938daf7bc5b6728c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+466c332bdc62617977ffc9e00d058aa007e0509f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDBF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDBF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
